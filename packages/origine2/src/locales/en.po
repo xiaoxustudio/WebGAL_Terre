@@ -353,6 +353,9 @@ msgstr "Hide the background"
 msgid "关闭预览窗口"
 msgstr "Close the preview window"
 
+msgid "其他设置"
+msgstr "Other settings"
+
 msgid "内层文本"
 msgstr "Inner Text"
 
@@ -382,9 +385,6 @@ msgstr "Choose branch"
 
 msgid "分隔符"
 msgstr "Separator"
-
-msgid "分隔符设置"
-msgstr "Separator settings"
 
 msgid "切换到另一个场景文件，并清除当前场景"
 msgstr "Turn to new scene, and clear this scene"
@@ -802,9 +802,6 @@ msgstr "Concat mode"
 
 msgid "指针"
 msgstr "Pointer"
-
-msgid "换行设置"
-msgstr "Line break setting"
 
 msgid "排序方式"
 msgstr "Sort by"
@@ -1852,9 +1849,6 @@ msgstr "Preview"
 
 msgid "预览图标"
 msgstr "Preview icon"
-
-msgid "预览性能"
-msgstr "Preview performance"
 
 msgid "预览窗口"
 msgstr "Preview window"

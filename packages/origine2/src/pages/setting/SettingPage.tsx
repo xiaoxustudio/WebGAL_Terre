@@ -121,13 +121,6 @@ export default function SettingPage() {
             description: t`实时预览将游戏快进至编辑语句，但有限制。先前场景的语句效果，如变量，不会反映在预览中。`,
             onChange: (checked: boolean) => updateIsEnableLivePreview(checked),
           },
-        ],
-      },
-      {
-        key: 'previewPerformance',
-        title: t`预览性能`,
-        order: 3,
-        options: [
           {
             key: 'useExpSyncFast',
             type: 'switch',
@@ -146,8 +139,8 @@ export default function SettingPage() {
         ],
       },
       {
-        key: 'font',
-        title: t`字体配置`,
+        key: 'text_editor',
+        title: t`脚本编辑器`,
         order: 4,
         options: [
           {
@@ -165,13 +158,6 @@ export default function SettingPage() {
             options: candidateFontSizes.map((s) => s.toString()),
             onChange: (value) => setTempFontSize(value),
           },
-        ],
-      },
-      {
-        key: 'lineWrap',
-        title: t`换行设置`,
-        order: 5,
-        options: [
           {
             key: 'autoWarp',
             type: 'switch',
@@ -187,8 +173,8 @@ export default function SettingPage() {
         ],
       },
       {
-        key: 'delimiter',
-        title: t`分隔符设置`,
+        key: 'other',
+        title: t`其他设置`,
         order: 6,
         options: [
           {

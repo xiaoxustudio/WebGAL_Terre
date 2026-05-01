@@ -353,6 +353,9 @@ msgstr "背景画像を非表示"
 msgid "关闭预览窗口"
 msgstr "プレビューウィンドウを閉じる"
 
+msgid "其他设置"
+msgstr "その他の設定です"
+
 msgid "内层文本"
 msgstr "内側テキスト"
 
@@ -382,9 +385,6 @@ msgstr "選択肢"
 
 msgid "分隔符"
 msgstr "分離子です"
-
-msgid "分隔符设置"
-msgstr "セパレータ設定です"
 
 msgid "切换到另一个场景文件，并清除当前场景"
 msgstr "別のシーンファイルに切り替えて現在のシーンをクリアする"
@@ -802,9 +802,6 @@ msgstr "連結モード"
 
 msgid "指针"
 msgstr "ポインター"
-
-msgid "换行设置"
-msgstr "改行設定です"
 
 msgid "排序方式"
 msgstr "並べ替え"
@@ -1852,9 +1849,6 @@ msgstr "プレビュー"
 
 msgid "预览图标"
 msgstr "プレビューアイコン"
-
-msgid "预览性能"
-msgstr "プレビュー性能です"
 
 msgid "预览窗口"
 msgstr "プレビューウィンドウ"

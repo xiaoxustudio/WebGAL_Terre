@@ -353,6 +353,9 @@ msgstr "关闭背景"
 msgid "关闭预览窗口"
 msgstr "关闭预览窗口"
 
+msgid "其他设置"
+msgstr "其他设置"
+
 msgid "内层文本"
 msgstr "内层文本"
 
@@ -382,9 +385,6 @@ msgstr "分支选择"
 
 msgid "分隔符"
 msgstr "分隔符"
-
-msgid "分隔符设置"
-msgstr "分隔符设置"
 
 msgid "切换到另一个场景文件，并清除当前场景"
 msgstr "切换到另一个场景文件，并清除当前场景"
@@ -802,9 +802,6 @@ msgstr "拼接模式"
 
 msgid "指针"
 msgstr "指针"
-
-msgid "换行设置"
-msgstr "换行设置"
 
 msgid "排序方式"
 msgstr "排序方式"
@@ -1852,9 +1849,6 @@ msgstr "预览"
 
 msgid "预览图标"
 msgstr "预览图标"
-
-msgid "预览性能"
-msgstr "预览性能"
 
 msgid "预览窗口"
 msgstr "预览窗口"
